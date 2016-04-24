@@ -1,0 +1,17 @@
+spring:
+  data:
+    mongodb:
+        uri: mongodb://localhost:27017/fakeAirline
+#        port: 0
+
+fakeAirline:
+    swagger:
+        title: fakeAirline API
+        description: fakeAirline API documentation
+        version: 0.0.1
+        termsOfServiceUrl:
+        contactName:
+        contactUrl:
+        contactEmail:
+        license:
+        licenseUrl:

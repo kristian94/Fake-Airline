@@ -1,0 +1,25 @@
+{
+  "name": "fakeAirline",
+  "authors": [
+    "panser <gostroy@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [
+    "es6"
+  ],
+  "appPath": "src/main/webapp/",
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "swagger-ui": "^2.1.4"
+  }
+}
